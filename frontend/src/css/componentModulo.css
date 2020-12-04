@@ -1,0 +1,19 @@
+:root{
+    --color_fondo_dashboard_1:rgb(36, 36, 36);
+    --color_fondo_dashboard_2:rgb(151, 0, 118);
+}
+
+
+
+.columna-modulo{
+    background-color:var(--color_fondo_dashboard_1);
+    height: 100%;
+    overflow: scroll;
+ }
+
+ .contenedor-modulo{
+    /*background-color: green;*/
+    /*height: 600px;*/
+    height: auto;
+    padding-top: 30px;
+}
